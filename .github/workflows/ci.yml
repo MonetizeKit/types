@@ -67,7 +67,7 @@ jobs:
       contents: read
       pull-requests: write
     # Canary: pinned to the org branch until MonetizeKit/.github#PR merges and v1 moves.
-    uses: MonetizeKit/.github/.github/workflows/reusable-pr-review.yml@cursor/ai-native-sdlc-430f
+    uses: MonetizeKit/.github/.github/workflows/reusable-pr-review.yml@v1
     with:
       policy_ref: cursor/ai-native-sdlc-430f
     secrets: inherit
