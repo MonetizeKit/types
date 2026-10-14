@@ -30,4 +30,4 @@ points, so it adds no runtime weight.
 
 ## License
 
-MIT
+MIT © [Coordinated App LLC](https://monetizekit.com), d/b/a MonetizeKit. See [LICENSE](./LICENSE).
