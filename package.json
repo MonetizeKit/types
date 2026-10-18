@@ -2,7 +2,7 @@
   "name": "@monetizekit/types",
   "version": "0.1.0",
   "description": "Shared TypeScript types for the MonetizeKit SDK — REST/GraphQL resource shapes (Customer, Plan, PricingTerm, Subscription, EntitlementResult, UsageData, CreditBalance, …).",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/MonetizeKit/types.git"
@@ -20,7 +20,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "NOTICE"
   ],
   "sideEffects": false,
   "publishConfig": {
